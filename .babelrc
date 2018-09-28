@@ -1,0 +1,4 @@
+{
+  "extends": "react-static/.babelrc",
+  "plugins": ["babel-plugin-emotion","transform-object-rest-spread","transform-class-properties"]
+}
